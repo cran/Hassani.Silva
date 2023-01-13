@@ -1,0 +1,6 @@
+export("KSPA")
+
+import("stats")
+
+importFrom("graphics", "hist", "legend", "par")
+
